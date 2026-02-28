@@ -1,2 +1,2 @@
 SOC Analyst **transitioning** into cloud by building security-focused labs and projects in Azure.  
-Currently practicing on [Learn to Cloud](https://learntocloud.guide/) bootcamp, sharpening my Python skills, and documenting everything I break and fix along the way.
+Currently practicing on [Learn to Cloud](https://learntocloud.guide/) bootcamp, sharpening my Python skills, and documenting everything I learn, break and fix along the way.
